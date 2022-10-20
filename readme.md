@@ -1,4 +1,4 @@
-# Advance Calculator
+# Advance Calculator Javascript
 
 Kerjakan pada file calculator.js dan buat test code pada index.js  
 Jalankan code pada index.js dengan bantuan module.exports dan require.
